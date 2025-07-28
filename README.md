@@ -1,2 +1,2 @@
-# OOPS
-Learning the Object Oriented Programming in C++.
+# OOPS in C++
+Learning Object Oriented Programming in C++.
